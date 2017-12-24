@@ -2,8 +2,8 @@
   "name": "monorepo-version",
   "version": "0.0.1",
   "dependencies": {
-    "@angular/core": "5.1.0",
-    "@angular/cli": "1.0.0",
-    "@angular/upgrade": "5.1.0"
+    "@angular/core": "5.1.2",
+    "@angular/cli": "1.6.2",
+    "@angular/upgrade": "5.1.2"
   }
 }
